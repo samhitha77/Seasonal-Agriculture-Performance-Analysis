@@ -123,17 +123,18 @@ Seasonal-Agriculture-Performance-Analysis/
 ├── seasonal_agriculture_performance_dataset.csv
 ├── README.md
 │
-├── charts/
-│   ├── correlation.png
-│   ├── profit_crop_season.png
-│   ├── profit_season.png
-│   ├── revenue_crop.png
-│   ├── revenue_season.png
-│   └── yield_correlation.png
+charts/
+├── average_profit_across_crops.png
+├── average_profit_across_seasons.png
+├── average_profit_by_crop_and_season.png
+├── average_revenue_across_seasons.png
+├── average_yield_across_seasons.png
+├── correlation.png
+├── average_revenue_across_crops.png
+└── yield_distribution_across_crops.png
 │
 └── screenshots/
     ├── dataset.png
-    ├── analysis_results.png
     └── final_insights.png
 
 ##conclusion
